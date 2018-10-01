@@ -1,2 +1,2 @@
 # shruti
-just another repository
+hello i m the student
